@@ -1,2 +1,3 @@
 # VOTING SYSTEM IN C
-This is a beginner friendly coding project to cast votes and count the votes to find who is the elected person.
+This is a beginner friendly coding project to cast votes, find the leading person the votes and see the vote counts.
+Enjoy :)
